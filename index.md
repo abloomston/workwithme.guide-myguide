@@ -8,7 +8,7 @@ full_name: Clinton Bowen
 # To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
 # picture: ./profile.jpg
 # To add your name to the front page list, uncomment below
-# categories: [profile]
+categories: [profile]
 ---
 
 _Two important points about your Work With Me document:_
@@ -64,9 +64,10 @@ What should people expect from you when they reach out to you on Email or Slack?
 
   - Slack!
 
-How should people best get your attention for urgent matters, during and out of your working hours? 
+How should people best get your attention for urgent matters outside of normal working hours? 
 
-  - [Texting me](https://getpantheon.bamboohr.com/employees/pto/?id=40624) is your best bet.
+  - Slack me first.
+  - If you still need a response, then [texting me](https://getpantheon.bamboohr.com/employees/pto/?id=40624) is your best bet.
 
 What's your relationship to work communication when not at work?
 
