@@ -26,9 +26,18 @@ _You might want to [estimate the reading time](http://niram.org/read/) of your d
 
 ## Personality
 
-  *How do you act in the world? This can be a combination of descriptive and aspirational traits.*
+  *How do you act in the world?*
 
-  - My mind can stay on one topic even well after a conversation has progressed elsewhere. Sometimes I lose track of the conversation and just focus on that topic.
+  - *In Conversation*: My mind can stay on one topic even well after a conversation has progressed elsewhere. Sometimes I lose track of the conversation and just focus on that topic.
+
+### Warning Signs
+
+When you don't feel safe in a conversation, how does this manifest itself in your actions or affects?
+
+  - I can be fairly reserved until I feel comfortable.  Here comfort can mean any of the following:
+    1. I know and am at ease with the individuals I am with;
+    1. The stated problem is clear enough and I have enough knowledge to provide feedback. Try asking me questions to help spur my feedback and comfort.
+  - If I'm uncomfortable, I'll stay quiet and I will become less of a participant in conversation.
 
 ## Receiving Feedback & Recognition
 
@@ -81,15 +90,6 @@ What are your signs that you'd prefer to not be interrupted when at work?
 
   - For those in SF: (1) A cup of tea is on my desk, (2) Sublime, Terminal, or Github is open on my screen, and (3) I have earbuds in my ears or cans on my head.
   - For remotes: I'll try to activate the do not disturb button on slack.
-
-### Warning Signs
-
-When you don't feel safe in a conversation, how does this manifest itself in your actions or affects?
-
-  - I can be fairly reserved until I feel comfortable.  Here comfort can mean any of the following:
-    1. I know and am at ease with the individuals I am with;
-    1. The stated problem is clear enough and I have enough knowledge to provide feedback. Try asking me questions to help spur my feedback and comfort.
-  - If I'm uncomfortable, I'll stay quiet and I will become less of a participant in conversation.
 
 ## Areas for Development
 
