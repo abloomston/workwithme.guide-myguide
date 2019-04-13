@@ -88,7 +88,7 @@ What are your signs that you'd prefer to not be interrupted when at work?
 
 ## How To Know I'm in Flow
 
-  - For those in SF: (1) A cup of tea is on my desk, (2) Sublime, Terminal, or Github is open on my screen, and (3) I have earbuds in my ears or cans on my head.
+  - For those in SF: (1) A cup of tea is on my desk, (2) Sublime, Terminal, or Github is open on my screen, and (3) I have ear buds in my ears or cans on my head.
   - For remotes: I'll try to activate the do not disturb button on slack.
 
 ## Areas for Development
