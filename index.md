@@ -52,12 +52,12 @@ What hours do you usually work?
 
   - I usually go to the gym before work and I am usually in the office by 10:30am PST.
   	- I am flexible to come into the office (or zoom in) earlier to meet with you 
-      - Please ask ahead of time!  If it's late the day before you want an early morning meeting, slack or txt me about it just to be sure I'm aware of it.
+      - Please ask ahead of time!  If it's late the day before you want an early morning meeting, slack or [txt](https://getpantheon.bamboohr.com/employees/pto/?id=40624) me about it just to be sure I'm aware of it.
   - Meetings are ideal 11am-3pm, the sooner the better.  
 
 When do you prefer to work alone, versus in groups? 
 
-  - *Meetings*: Ideally, I like it when meetings have an agenda _with_ an expected outcome/decision, e.g. "Project Fox is slated for the next sprint.  Will we use firebase or mongodb for the nosql?"
+  - *Meetings*: Ideally, I like it when meetings have an agenda _with_ an expected outcome/decision, e.g. "Project Fox is slated for the next sprint.  Will we use firestore or mongodb for the nosql?"
   - *Learning*: For learning about a particular technology, area of focus, or problem, I prefer to work alone and then share my findings at planning stage.  I will reach out to others to get ideas or when I have a question.
   - *Planning*: I prefer planning as a group; especially so when designing a new "thing".
   - *Development*:  I like to code solo for the most part.  I will call upon help when I'm having a hard time debugging, or need a second pair of eyes when writing something.
@@ -94,12 +94,12 @@ What are your signs that you'd prefer to not be interrupted when at work?
 ## Areas for Development
 
   - Asking questions that strike at the heart of the issue.
-  - I am notorious of overcomplicating designs.  If I show you something that looks complicated, as a rule of thumb, call that out.
+  - I am notorious of over complicating designs.  If I show you something that looks complicated, as a rule of thumb, call that out.
 
 ## Ask Me About
 
   - Linear programming, optimization, and math.
   - Cryptography
   - GPS
-  - Software bugs and bug hunting: CVEs, fuzzing, symbolic execution, and reverse engineering tools.
-  - Ice hockey, powerlifting, and hiking
+  - Software bugs and bug hunting: CVEs, fuzzing, symbolic execution, and reverse engineering tools
+  - Ice hockey, power lifting, and hiking
