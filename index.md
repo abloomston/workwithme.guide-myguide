@@ -26,13 +26,16 @@ _You might want to [estimate the reading time](http://niram.org/read/) of your d
 
 ## Personality
 
-  *How do you act in the world?*
+**How do you act in the world?**
 
-  - *In Conversation*: My mind can stay on one topic even well after a conversation has progressed elsewhere. Sometimes I lose track of the conversation and just focus on that topic.
+  - **Reflecting**: I often times think about one topic for extensive periods of time. An easy way to spot if I'm reflecting is when I mention a conversation topic from 5 minutes ago when the conversation has progressed elsewhere. Here are some things I might reflect upon:
+    - Think about a problem, challenge, or conjecture e.g. "The Clinton Conjecture: [Robert Delaunay](https://en.wikipedia.org/wiki/Robert_Delaunay) and [Boris Delaunay](https://en.wikipedia.org/wiki/Boris_Delaunay) are related."
+    - Reflect on a conversation topic, e.g. "Which do you prefer, Roman columns or Greek pillars?"
+    - Or ideals, dreams, and counterexamples, e.g. "What if I told you that that `x = y/z;` was constant time?"
 
 ### Warning Signs
 
-When you don't feel safe in a conversation, how does this manifest itself in your actions or affects?
+**When you don't feel safe in a conversation, how does this manifest itself in your actions or affects?**
 
   - I can be fairly reserved until I feel comfortable.  Here comfort can mean any of the following:
     1. I know and am at ease with the individuals I am with;
@@ -41,48 +44,48 @@ When you don't feel safe in a conversation, how does this manifest itself in you
 
 ## Receiving Feedback & Recognition
 
-How do you best receive feedback, be it positive or negative?
+**How do you best receive feedback, be it positive or negative?**
 
   - Positive feedback: private slack channel feedback is awesome!  Should your heart want to call it out at orientation meetings, go for it.
   - Negative feedback: 1-1s are best and private slack channel. Provide an example of my actions or character.  That can help me learn.
 
 ## Work Patterns
 
-What hours do you usually work?
+**What hours do you usually work?**
 
   - I usually go to the gym before work and I am usually in the office by 10:30am PST.
   	- I am flexible to come into the office (or zoom in) earlier to meet with you 
       - Please ask ahead of time!  If it's late the day before you want an early morning meeting, slack or [txt](https://getpantheon.bamboohr.com/employees/pto/?id=40624) me about it just to be sure I'm aware of it.
   - Meetings are ideal 11am-3pm, the sooner the better.  
 
-When do you prefer to work alone, versus in groups? 
+**When do you prefer to work alone, versus in groups?**
 
-  - *Meetings*: Ideally, I like it when meetings have an agenda _with_ an expected outcome/decision, e.g. "Project Fox is slated for the next sprint.  Will we use firestore or mongodb for the nosql?"
-  - *Learning*: For learning about a particular technology, area of focus, or problem, I prefer to work alone and then share my findings at planning stage.  I will reach out to others to get ideas or when I have a question.
-  - *Planning*: I prefer planning as a group; especially so when designing a new "thing".
-  - *Development*:  I like to code solo for the most part.  I will call upon help when I'm having a hard time debugging, or need a second pair of eyes when writing something.
-  - *Testing/Integration*: So not so much as a group but I will definitely seek advice and feedback for validation.
+  - **Meetings**: Ideally, I like it when meetings have an agenda _with_ an expected outcome/decision, e.g. "Project Fox is slated for the next sprint.  Will we use firestore or mongodb for the nosql?"
+  - **Learning**: For learning about a particular technology, area of focus, or problem, I prefer to work alone and then share my findings at planning stage.  I will reach out to others to get ideas or when I have a question.
+  - **Planning**: I prefer planning as a group; especially so when designing a new "thing".
+  - **Development**: I like to code solo for the most part.  I will call upon help when I'm having a hard time debugging, or need a second pair of eyes when writing something.
+  - **Testing/Integration**: So not so much as a group but I will definitely seek advice and feedback for validation.
 
-How do your energy levels fluctuate throughout the day?
+**How do your energy levels fluctuate throughout the day?**
 
   Around 3:30 or so, my energy levels can drop and I may take a break for a snack or tea.  If its a heavy lift day, sometimes I can get loopy in the morning and my mind and body are still recovering.
 
 ## Communication Preferences
 
-What should people expect from you when they reach out to you on Email or Slack?
+**What should people expect from you when they reach out to you on Email or Slack?**
 
   - Slack!
 
-How should people best get your attention for urgent matters outside of normal working hours? 
+**How should people best get your attention for urgent matters outside of normal working hours?**
 
   - Slack me first.
   - If you still need a response, then [texting me](https://getpantheon.bamboohr.com/employees/pto/?id=40624) is your best bet.
 
-What's your relationship to work communication when not at work?
+**What's your relationship to work communication when not at work?**
 
   - I'll do what I can to respond upon availability.
 
-What are your signs that you'd prefer to not be interrupted when at work?
+**What are your signs that you'd prefer to not be interrupted when at work?**
   
   - For remotes:  I don't update my slack status regularly.  If I don't want to be disturbed I'll manually set Slack to do not disturb.
 
@@ -93,7 +96,7 @@ What are your signs that you'd prefer to not be interrupted when at work?
 
 ## Areas for Development
 
-  - Asking questions that strike at the heart of the issue.
+  - Asking questions that strike at the heart of the issue.  Sometimes I don't know what questions to ask to get a better understanding of context.
   - I am notorious of over complicating designs.  If I show you something that looks complicated, as a rule of thumb, call that out.
 
 ## Ask Me About
