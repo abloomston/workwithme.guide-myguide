@@ -31,7 +31,7 @@ _You might want to [estimate the reading time](http://niram.org/read/) of your d
   - **Reflecting**: I often times think about one topic for extensive periods of time. An easy way to spot if I'm reflecting is when I mention a conversation topic from 5 minutes ago when the conversation has progressed elsewhere. Here are some things I might reflect upon:
     - Think about a problem, challenge, or conjecture e.g. "The Clinton Conjecture: [Robert Delaunay](https://en.wikipedia.org/wiki/Robert_Delaunay) and [Boris Delaunay](https://en.wikipedia.org/wiki/Boris_Delaunay) are related."
     - Reflect on a conversation topic, e.g. "Which do you prefer, Roman columns or Greek pillars?"
-    - Or ideals, dreams, and counterexamples, e.g. "What if I told you that that `x = y/z;` was constant time?"
+    - Or ideals, dreams, and counterexamples, e.g. "What if I told you `x = y/z;` was constant time?"
 
 ### Warning Signs
 
