@@ -13,8 +13,8 @@ categories: [profile]
 
 ## Values
 
-  - I think life is boring without a problem or task that is a **Challenge**. Challenges rewarding to tackle and solve.  
-  - That yields a **Learning** experience which helps me **Grow**. 
+  - I think life is boring without a problem or task that is a **Challenge**. Challenges are rewarding to tackle and solve.  
+  - Challenges yield **Learning** experiences which help me **Grow**. 
   - With that said, I do need time and space for a work-life **Balance**.  I take time for myself daily to unwind and prepare myself for the next challenge to come.
   - I value **humility** and **candor** from others.
 
