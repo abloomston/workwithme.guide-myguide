@@ -21,20 +21,20 @@ categories: [profile]
 ## Personality
 
   - **Reflecting**: I often times think about one topic for extensive periods of time. An easy way to spot if I'm reflecting is when I mention a conversation topic from 5 minutes ago (or 5 days ago) when the conversation has progressed elsewhere. Here are some things I might reflect upon:
-    - Think about a problem, challenge, or conjecture e.g. "The Clinton Conjecture: [Robert Delaunay](https://en.wikipedia.org/wiki/Robert_Delaunay) and [Boris Delaunay](https://en.wikipedia.org/wiki/Boris_Delaunay) are related."
-    - Reflect on a conversation topic, e.g. "Which do you prefer, Roman columns or Greek pillars?"
-    - Or ideals, dreams, and counterexamples, e.g. "One day `x = y/z;` will be constant time."
+    - A problem, challenge, or conjecture e.g. "The Clinton Conjecture: [Robert Delaunay](https://en.wikipedia.org/wiki/Robert_Delaunay) and [Boris Delaunay](https://en.wikipedia.org/wiki/Boris_Delaunay) are related."
+    - Reflect on a conversation topic, e.g. "Roman columns or Greek pillars? Discuss."
+    - Ideals, dreams, and counterexamples, e.g. "One day `x = y/z;` will be constant time."
 
 ### Warning Signs
 
 **When you don't feel safe in a conversation, how does this manifest itself in your actions or affects?**
 
   - I can be fairly reserved until I feel comfortable.  Here comfort can mean any of the following:
-    1. I know and am at ease with the individuals I am with;
-    1. The stated problem is clear enough and I have enough knowledge to provide feedback. Try asking me questions to help spur my feedback and comfort.
+    1. I am familiar and at ease with the individuals I am with;
+    1. The stated problem is clear enough and I have enough knowledge to provide feedback. Try asking me questions to spur my feedback and comfort.
   - If I'm uncomfortable, I'll stay quiet and I will become less of a participant in conversation.
   - **Conflict**: I sometimes avoid conflict which does not resolve the problem.  Providing feedback helps.
-  - **Rumination**:  I am _always_ my biggest critic.  Just tell me to relax.  It was the best advice I got from teammates when I played college hockey.
+  - **Rumination**:  I am _always_ my biggest critic.  I set a pretty high bar for myself.  Just tell me to relax.  It was the best advice I got from teammates when I played college hockey.
 
 ## Receiving Feedback & Recognition
 
