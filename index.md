@@ -21,7 +21,7 @@ categories: [profile]
 ## Personality
 
   - **Reflecting**: I often times think about one topic for extensive periods of time. An easy way to spot if I'm reflecting is when I mention a conversation topic from 5 minutes ago (or 5 days ago) when the conversation has progressed elsewhere. Here are some things I might reflect upon:
-    - A problem, challenge, or conjecture e.g. "The Clinton Conjecture: [Robert Delaunay](https://en.wikipedia.org/wiki/Robert_Delaunay) and [Boris Delaunay](https://en.wikipedia.org/wiki/Boris_Delaunay) are related."
+    - A problem, challenge, or conjecture, e.g. "The Clinton Conjecture: [Robert Delaunay](https://en.wikipedia.org/wiki/Robert_Delaunay) and [Boris Delaunay](https://en.wikipedia.org/wiki/Boris_Delaunay) are related."
     - Reflect on a conversation topic, e.g. "Roman columns or Greek pillars? Discuss."
     - Ideals, dreams, and counterexamples, e.g. "One day `x = y/z;` will be constant time."
 
@@ -50,7 +50,7 @@ categories: [profile]
   - I usually go to the gym before work and I am usually in the office by 10:30am PST.
   	- I am flexible to come into the office (or zoom in) earlier to meet with you 
       - Please ask ahead of time!  If it's late the day before you want an early morning meeting, slack or text me about it just to be sure I'm aware of it.
-  - Meetings are ideal 11am-3pm, the sooner the better. 
+  - Meetings are ideal 11am-3pm PST, the sooner the better. 
 
 **When do you prefer to work alone, versus in groups?**
 
@@ -59,6 +59,7 @@ categories: [profile]
   - **Planning**: I prefer planning as a group; especially so when designing a new "thing".
   - **Development**: I like to code solo for the most part.  I will call upon help when I'm having a hard time debugging, or need a second pair of eyes when writing something.
   - **Testing/Integration**: So not so much as a group but I will definitely seek advice and feedback for validation.
+  - **Retrospectives, EOLs, and Garbage Collection**: Let's do that together to reflect, respond, and learn. 
 
 **How do your energy levels fluctuate throughout the day?**
 
@@ -70,7 +71,8 @@ categories: [profile]
 **What should people expect from you when they reach out to you on Email or Slack?**
 
   - If you want me to respond, then message me on slack!
-  - On average, I receive about 104 emails per business day.  So how about that slack?
+  - On average, I receive about 104 emails per business day. There is a good chance I will miss your email, even when I know to look for it.
+  - If you _must_ email me, let me know so I can create an email filter rule to forward it to my slack.  
 
 **How should people best get your attention for urgent matters outside of normal working hours?**
 
@@ -83,7 +85,7 @@ categories: [profile]
 
 **What are your signs that you'd prefer to not be interrupted when at work?**
   
-  - For remotes:  I don't update my slack status regularly.  If I don't want to be disturbed I'll manually set Slack to do not disturb.
+  - For remotes: I don't update my slack status regularly.  If I don't want to be disturbed I'll manually set Slack to do not disturb.
 
 ## How To Know I'm in Flow
 
@@ -93,8 +95,8 @@ categories: [profile]
 ## Areas for Development
 
   - Asking questions that strike at the heart of the issue.  Sometimes I don't know what questions to ask to get a better understanding of context.
-  - I am notorious of over complicating designs.  If I show you something that looks complicated, as a rule of thumb, call that out.
-  - I hope to learn more about [art based research](http://elevr.com/portfolio/art-based-research/) and incorporate this into my professional development.
+  - I am notorious for over complicating designs.  If I show you something that looks complicated, just call that out.
+  - I hope to learn more about [art based research](https://github.com/clintonPantheon/workwithme.guide-myguide/blob/master/CritatCDG.pdf) and incorporate this into my professional development.
 
 ## Ask Me About
 
