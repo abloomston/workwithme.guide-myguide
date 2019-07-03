@@ -45,8 +45,8 @@ Provide recognition however you see fit in private or in public or via Slack. I 
 
 ## How To Know I’ve Gone To The Dark Side
 ### Warning Signs
-- I might have low energy
-- Mention that I did not get enough sleep (I don't ingest caffeine in anyway) or I am hungry (I have an active appetite)
+- I appear to have low energy
+- I moh ention that I did not get enough sleep (I don't ingest caffeine in anyway) or I am hungry (I have an active appetite)
 - I have a packed schedule or have been pretty busy and haven't had a moment of peace yet.
 
 ### How to Help
