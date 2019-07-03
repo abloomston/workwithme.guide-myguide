@@ -1,107 +1,58 @@
 ---
 layout: profile
 # Set both of these to your name
-title: Clinton Bowen
-full_name: Clinton Bowen
+title: Cecili Reid
+full_name: Cecili Reid
 # Set this to the Github URL for links to work correctly
-github_url: https://github.com/clintonPantheon/workwithme.guide-myguide/
+github_url: https://github.com/creid31/workwithme.guide-myguide.git
 # To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
 picture: ./profile.jpg
 # To add your name to the front page list, uncomment below
 categories: [profile]
 ---
 
-## Values
-
-  - I think life is boring without a problem or task that is a **Challenge**. Challenges are rewarding to tackle and solve.  
-  - Challenges yield **Learning** experiences which help me **Grow**. 
-  - With that said, I do need time and space for a work-life **Balance**.  I take time for myself daily to unwind and prepare myself for the next challenge to come.
-  - I value **humility** and **candor** from others.
-
-## Personality
-
-  - **Reflecting**: I often times think about one topic for extensive periods of time. An easy way to spot if I'm reflecting is when I mention a conversation topic from 5 minutes ago (or 5 days ago) when the conversation has progressed elsewhere. Here are some things I might reflect upon:
-    - A problem, challenge, or conjecture, e.g. "The Clinton Conjecture: [Robert Delaunay](https://en.wikipedia.org/wiki/Robert_Delaunay) and [Boris Delaunay](https://en.wikipedia.org/wiki/Boris_Delaunay) are related."
-    - Reflect on a conversation topic, e.g. "Roman columns or Greek pillars? Discuss."
-    - Ideals, dreams, and counterexamples, e.g. "One day `x = y/z;` will be constant time."
-
-### Warning Signs
-
-**When you don't feel safe in a conversation, how does this manifest itself in your actions or affects?**
-
-  - I can be fairly reserved until I feel comfortable.  Here comfort can mean any of the following:
-    1. I am familiar and at ease with the individuals I am with;
-    1. The stated problem is clear enough and I have enough knowledge to provide feedback. Try asking me questions to spur my feedback and comfort.
-  - If I'm uncomfortable, I'll stay quiet and I will become less of a participant in conversation.
-  - **Conflict**: I sometimes avoid conflict which does not resolve the problem.  Providing feedback helps.
-  - **Rumination**:  I am _always_ my biggest critic.  I set a pretty high bar for myself.  Just tell me to relax.  It was the best advice I got from teammates when I played college hockey.
-
-## Receiving Feedback & Recognition
-
-**How do you best receive feedback, be it positive or negative?**
-
-  - Positive feedback: private slack channel feedback is awesome!  Should your heart want to call it out at orientation meetings, go for it.
-  - Negative feedback: 1-1s are best and private slack channel. Provide an example of my actions or character.  That can help me learn.
+## My Tenets/Values
+  - Be honest: Without this there cannot be trust and vulnerability and that's what I need/want to build connections with people
+  - Have clear/direct communication: Life is too short for me to figure out what people are trying to say indirectly. Usually leads to miscommunication because I did not pick up on passive cues
+  - Financial stability: This means I am pretty frugal (usually bringing my lunch) and very ambitious (have a side hustle or two) in my desire to be financially secure
+  - Be a child @ heart: Though I am a full grown adult (I have proof!), I look for opportunities to have fun when I can
+  - Be genuine: I say what I mean and mean what I say and I try to bring my full self to work and encourage others to do the same.
 
 ## Work Patterns
-
-**What hours do you usually work?**
-
-  - I usually go to the gym before work and I am usually in the office by 10:30am PST.
-  	- I am flexible to come into the office (or zoom in) earlier to meet with you 
-      - Please ask ahead of time!  If it's late the day before you want an early morning meeting, slack or text me about it just to be sure I'm aware of it.
-  - Meetings are ideal 11am-3pm PST, the sooner the better. 
-
-**When do you prefer to work alone, versus in groups?**
-
-  - **Meetings**: Ideally, I like it when meetings have an agenda _with_ an expected outcome/decision, e.g. "Project Fox is slated for the next sprint.  Will we use firestore or mongodb for the nosql?"
-  - **Learning**: For learning about a particular thing, area of focus, or problem, I prefer to work alone and then share my findings at planning stage.  I will reach out to others to get ideas or when I have a question.
-  - **Planning**: I prefer planning as a group; especially so when designing a new "thing".
-  - **Development**: I like to code solo for the most part.  I will call upon help when I'm having a hard time debugging, or need a second pair of eyes when writing something.
-  - **Testing/Integration**: So not so much as a group but I will definitely seek advice and feedback for validation.
-  - **Retrospectives, EOLs, and Garbage Collection**: Let's do that together to reflect, respond, and learn. 
-
-**How do your energy levels fluctuate throughout the day?**
-
-  - Around 3:30 or so, my energy levels can drop and I may take a break for a snack or tea.  If its a heavy lift day, sometimes I can get loopy in the morning and my mind and body are still recovering.
-  - If I've been in flow for a considerable part of the working day, my brain will kind of just stop in the very late afternoons.  At that point it becomes a grind.
+- I tend to be in the office 10am to 4pm EST
+- I am usually online/responsive before 10am and after 4pm or over the weekends
+- I sometimes work strange hours when the mood/energy hits so don't be surprised if you see weekend/midnight commits
+- I prefer to learn and develop on my own but will reach out once I have a clearer idea of something I want to ask
+- My energy fluctuates depending on activities/interactions and on days/weeks I see heavy people interaction I try to adjust my schedule accordingly.
+- I am an introvert so I need alone time to recharge
 
 ## Communication Preferences
+Slack is my preference and I tend to not respond to messages immediately so feel free to ping again if not responded to in an hour. If Slack is snoozed, please only send notifications if urgent. I try to respond to email within 24 hours. If there is an action associated with the email though, I might not respond until I completed the action so helpful to give me a deadline with an email so I know how to prioritize it.
 
-**What should people expect from you when they reach out to you on Email or Slack?**
+## Areas of Development
+- PHP
+- Tensorflow/Machine Learning
+- Android Development
+- React
+- GCP
+- Public speaking
+- Mentoring
 
-  - If you want me to respond, then message me on slack!
-  - On average, I receive about 104 emails per business day. There is a good chance I will miss your email, even when I know to look for it.
-  - If you _must_ email me, let me know so I can create an email filter rule to forward it to my slack.  
+## Receiving Feedback & Recognition
+Provide recognition however you see fit in private or in public or via Slack. I am pretty indifferent by it. Please provide criticism in a private setting and with concrete examples and be as to the point as possible.
 
-**How should people best get your attention for urgent matters outside of normal working hours?**
+## Warning Signs
+I might be low energy or mention that I did not get enough sleep (I don't ingest caffeine in anyway) or I am hungry (I have an active appetite) or I have a packed schedule or have been pretty busy and haven't had a moment of peace yet.
 
-  - Slack me first.
-  - If you still need a response, then texting me is your best bet.
-
-**What's your relationship to work communication when not at work?**
-
-  - I'll do what I can to respond upon availability.
-
-**What are your signs that you'd prefer to not be interrupted when at work?**
-  
-  - For remotes: I don't update my slack status regularly.  If I don't want to be disturbed I'll manually set Slack to do not disturb.
-
-## How To Know I'm in Flow
-
-  - For those in SF: (1) A cup of tea is on my desk, (2) Sublime, Terminal, or a dark theme web page is open on my screen, and (3) I have ear buds in my ears or cans on my head.
-  - For remotes: I'll try to activate the do not disturb button on slack.
-
-## Areas for Development
-
-  - Asking questions that strike at the heart of the issue.  Sometimes I don't know what questions to ask to get a better understanding of context.
-  - I am notorious for over complicating designs.  If I show you something that looks complicated, just call that out.
-  - I hope to learn more about [art based research](https://github.com/clintonPantheon/workwithme.guide-myguide/blob/master/CritatCDG.pdf) and incorporate this into my professional development.
+### How to Help
+Give me time to catch my breath and catch up.
+Suggest we do something active that can help with my energy like going for a walk.
+Encourage a snack and come back to the topic later.
 
 ## Ask Me About
-
-  - Linear programming, optimization, and math.
-  - Cryptography (the symmetric kind)
-  - GPS
-  - Software bugs and bug hunting: CVEs, fuzzing, symbolic execution, and reverse engineering tools
-  - Ice hockey, power lifting, and hiking
+  - Ballroom dancing
+  - Piano/alto saxophone
+  - My dog Ceasar
+  - Public speaking
+  - Community service
+  - Travel/hiking
