@@ -11,24 +11,26 @@ picture: ./profile.jpg
 categories: [profile]
 ---
 
-## My Tenets/Values
-  - **Being honest**: Without this there cannot be trust and vulnerability and that's what I need/want to build connections with people
-  - **Having clear/direct communication**: Life is too short for me to figure out what people are trying to say indirectly. Usually leads to miscommunication because I did not pick up on passive cues
-  - **Striving for financial stability**: This means I am pretty frugal (usually bringing my lunch) and very ambitious (have a side hustle or two) in my desire to be financially secure
-  - **Being a child @ heart**: Though I am a full grown adult (I have proof!), I look for opportunities to have fun when I can
-  - **Being genuine**: I say what I mean and mean what I say and I try to bring my full self to work and encourage others to do the same.
+## Values and Personality
+  - **I am honest**: Without this there cannot be trust and vulnerability and that's what I need/want to build connections with people
+  - **I appreciate clear/direct communication**: Life is too short for me to figure out what people are trying to say indirectly. Usually leads to miscommunication because I did not pick up on passive cues
+  - **I strive for financial stability**: This means I am pretty frugal (usually bringing my lunch) and very ambitious (have a side hustle or two) in my desire to be financially secure
+  - **I am a child @ heart**: Though I am a full grown adult (I have proof!), I look for opportunities to have fun when I can
+  - **I try to be genuine as much as possible**: I say what I mean and mean what I say and I try to bring my full self to work and encourage others to do the same.
+  - **I am nice and kind!**: I can be pretty direct which sometimes translate for others as mean but always assume good intent. I am not the kind of person who wants to make a person feel bad. If I do, tell me!
+  - **My golden rule is to treat others the way you want to be treated**
 
 ## Work Patterns
 - I tend to be in the office **10am to 4pm EST**
 - I am usually online/responsive before 10am and after 4pm or over the weekends
 - I sometimes work strange hours when the mood/energy hits so don't be surprised if you see weekend/midnight commits
-- I prefer to learn and develop on my own but will reach out once I have a clearer idea of something I want to ask
-- My energy fluctuates depending on activities/interactions and on days/weeks I see heavy people interaction I try to adjust my schedule accordingly.
+- I prefer to **learn and develop on my own** but will reach out once I have a clearer idea of something I want to ask
+- **My energy fluctuates** depending on activities/interactions and on days/weeks I see heavy people interaction I try to adjust my schedule accordingly.
 - I am a proud **ambivert** with introvert leanings though so will need alone time to recharge
 
 ## Communication Preferences
 - If I have on headphones, slack me and/or ask if I am available/up for interruptions
-- Slack is my preference and I tend to not respond to messages immediately so feel free to ping again if not responded to in an hour. If Slack is snoozed, please only send notifications if urgent.
+- Slack is my preference and I tend to not respond to messages immediately (notifications are most likely off because they are distracting) so feel free to ping again if not responded to in an hour. If Slack is snoozed, please only send notifications if urgent.
 - I try to respond to email within 24 hours. If there is an action associated with the email though, I might not respond until I completed the action so helpful to give me a deadline with an email so I know how to prioritize it.
 
 ## Areas of Development
@@ -41,16 +43,16 @@ categories: [profile]
 - Mentoring
 
 ## Receiving Feedback & Recognition
-Provide recognition however you see fit in private or in public or via Slack. I am pretty indifferent by it. Please provide criticism in a private setting and with concrete examples and be as to the point as possible.
+Provide recognition however you see fit in private or in public or via Slack. I am pretty indifferent by it. Please provide criticism in a private setting and with concrete examples and be as to the point as possible. Would also greatly appreciate having time to digest and work through it. I will ask questions for more details/examples so I understand the feedback.
 
 ## How To Know I’ve Gone To The Dark Side
 ### Warning Signs
 - I appear to have low energy
-- I moh ention that I did not get enough sleep (I don't ingest caffeine in anyway) or I am hungry (I have an active appetite)
+- I mention that I did not get enough sleep (I don't ingest caffeine in anyway) or I am hungry (I have a very active appetite)
 - I have a packed schedule or have been pretty busy and haven't had a moment of peace yet.
 
 ### How to Help
-- Give me time to catch my breath and catch up.
+- Give me time to catch my breath and catch up or digest what has happened/was said
 - Suggest we do something active that can help with my energy like going for a walk.
 - Encourage a snack
 - Come back to the topic later
@@ -61,6 +63,8 @@ Disclaimer: Not an exhaustive list and I reserve the right to add to it :P
 - Trying to assume something and not asking indirectly
 - Interrupting people while someone is speaking
 - Not addressing conflict
+- Blatantly wasting food/resources
+- Just talk and no actions
 
 
 ## Ask Me About
@@ -69,4 +73,5 @@ Disclaimer: Not an exhaustive list and I reserve the right to add to it :P
   - My dog Ceasar
   - Public speaking
   - Community service
+  - My web comic
   - Travel/hiking
