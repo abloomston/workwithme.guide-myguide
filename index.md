@@ -23,9 +23,9 @@ categories: [profile]
 ## Work Patterns
 - I tend to be in the office **10am to 4pm EST**
 - I am usually online/responsive before 10am and after 4pm or over the weekends
-- I sometimes work strange hours when the mood/energy hits so don't be surprised if you see weekend/midnight commits
+- I sometimes work strange hours when the mood/energy hits so don't be surprised if you see weekend/midnight commits (on my local branch NEVER pushing to prod over weekends)
 - I prefer to **learn and develop on my own** but will reach out once I have a clearer idea of something I want to ask
-- **My energy fluctuates** depending on activities/interactions and on days/weeks I see heavy people interaction I try to adjust my schedule accordingly.
+- **My energy fluctuates** depending on activities/interactions and on days/weeks I see heavy people interaction I try to adjust my schedule accordingly to limit the amount of meetings I have in a day.
 - I am a proud **ambivert** with introvert leanings though so will need alone time to recharge
 
 ## Communication Preferences
@@ -33,14 +33,6 @@ categories: [profile]
 - Slack is my preference and I tend to not respond to messages immediately (notifications are most likely off because they are distracting) so feel free to ping again if not responded to in an hour. If Slack is snoozed, please only send notifications if urgent.
 - I try to respond to email within 24 hours. If there is an action associated with the email though, I might not respond until I completed the action so helpful to give me a deadline with an email so I know how to prioritize it.
 
-## Areas of Development
-- PHP
-- Tensorflow/Machine Learning
-- Android Development
-- React
-- GCP
-- Public speaking
-- Mentoring
 
 ## Receiving Feedback & Recognition
 Provide recognition however you see fit in private or in public or via Slack. I am pretty indifferent by it. Please provide criticism in a private setting and with concrete examples and be as to the point as possible. Would also greatly appreciate having time to digest and work through it. I will ask questions for more details/examples so I understand the feedback.
@@ -58,14 +50,26 @@ Provide recognition however you see fit in private or in public or via Slack. I 
 - Come back to the topic later
 
 ## Pet Peeves
-Disclaimer: Not an exhaustive list and I reserve the right to add to it :P
+_I don't expect this list to change your actions—but it might help you better understand and empathize with my
+reactions. Not an exhaustive list and I reserve the right to add to it :P_
 - Avoidance/passive aggression
-- Trying to assume something and not asking indirectly
+- Trying to assume something and not asking directly
 - Interrupting people while someone is speaking
 - Not addressing conflict
 - Blatantly wasting food/resources
-- Just talk and no actions
+- Just talk and no action
 
+## Areas of Development
+- PHP
+- Tensorflow/Machine Learning
+- Android Development
+- React
+- GCP
+- Public speaking
+- Mentoring
+
+## Career Goals & Future Interests
+Every decision I make within my career and otherwise is as a result of my quest for financial security. I would like to retire early and enjoy life volunteering, traveling, and working when and how I want to and not because I have to. Until retirement, I have flirted with the idea of running a company or becoming a CTO. I am still on the road of discovery of what path will support my goal of financial security but also is fulfilling and makes me happy.
 
 ## Ask Me About
   - Ballroom dancing
