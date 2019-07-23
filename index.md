@@ -12,30 +12,30 @@ picture: ./profile.jpg
 ---
 ## Values
 
-* I value curiosity and self-reliance. I love digging into new problem areas and figuring things out on my own.
-I value passion and cooperation. Pairing with a colleague on a problem they are as interested in solving as I am is awesome.
-* I aspire to be consistent. I am huge fan of code formatters and linters for instance.
-* I often fill the role of facilitator. I strive to make sure the people around me feel heard and understood.
+* I value **curiosity** and **self-reliance**. I love digging into new problem areas or technologies and figuring those out on my own.
+* I value **passion** and **cooperation**. Pairing with a colleague on a problem they are as interested in solving as I am is awesome.
+* I aspire to be **consistent** from both a technical standpoint and how I approch relationships with my colleagues.
+* I often fill the role of _facilitator_. I strive to make sure the people around me feel **heard** and **understood**.
 
 ## Personality
 
 * I tend to avoid interpersonal conflict but often pursue the conflict that comes out of discussing technical or process problems. I relish a good back and forth on a technical or process related issue. It is an interesting dichotomy that I am still trying to figure out.
-* I see myself as an optimist. It takes a lot to make me sad or angry or annoyed.
-* I aspire to be playful. This is an important part of interactions with my colleagues. I like to to joke and have fun in meetings, this sometimes can lead to me getting off-topic.
-* I am very confident. I tend to speak with authority even when I am not a subject matter expert on the topic of conversation. I am working on this.
+* I see myself as an **optimist**. It takes a lot to make me sad or angry or annoyed.
+* I aspire to be **playful**. This is an important part of interactions with my colleagues. I like to to joke and have fun in meetings, this sometimes can lead to me getting _off-topic_.
+* I am very **confident**. I tend to speak with authority even when I am not a subject matter expert on the topic of conversation. I am working on this.
 
 * My Meyers-Biggs type is INFP-A.
 
 ## Receiving Feedback & Recognition
 
-* I have taken the test and my love language is quality-time. This rings true to me. Having conversations where the other person is listening and engaged is very important to me.
+* I have taken the test and my love language is **quality-time**. This rings true to me. Having conversations where the other person is listening and engaged is very important to me.
 
 * I welcome critical or negative feedback but I ask that it is given in a private 1 on 1.
 
-* I find it difficult to give critical or negative feedback to others. I am working on this. This is the part of me that avoids interpersonal conflict.
+* I find it difficult to give critical or negative feedback to others. This is the part of me that avoids interpersonal conflict. I am working on this.
 
 ## Work Patterns
-I live and work remotely in Denver, CO where the timezone is UTC-7 (UTC-6 during daylight savings). I'll talk here using UTC-8 (UTC-7 during daylight savings) as this is the timezone at the headquarters office in SF.
+I live and work remotely in Denver, CO where the timezone is UTC-7 (UTC-6 during daylight savings). I'll talk here using the timezone of San Francisco, UTC-8 (UTC-7 during daylight savings), as this where most of my colleagues live and work.
 
 #### What hours do you usually work?
 
@@ -46,7 +46,8 @@ I live and work remotely in Denver, CO where the timezone is UTC-7 (UTC-6 during
 #### When do you prefer to work alone, versus in groups?
 * I prefer pair programming or 1 on 1s after lunch.
 * I like to work things out on my own before reaching out for help.
-* How do your energy levels fluctuate throughout the day?
+
+#### How do your energy levels fluctuate throughout the day?
 * In general I find that I have a lot of energy throughout the the day.
 * I feel most productive in the morning right when I sit down to work.
 * After lunch I generally get a little groggy for an hour or so.
@@ -78,9 +79,9 @@ _I don't expect this list to change your actions—but it might help you better 
 * Short term: Continue to support and implement new features for the business intelligence platform at Pantheon. I've put a lot of time and energy into this and want it to reach its potential.
 * Long term: Move into a role where I can have a higher level decision making capacity around the direction of technology in a business while supporting those around me. This means a management track in the near term and eventually a Director or VP role in the long term.
 
-Areas for Development
+## Areas for Development
 * I tend to get off topic in meetings. This comes from my desire to bring playfulness to work. This can get frustrating for those around me though. If I've overstepped and steered the conversation too far off track please tell me. I won't offend.
-* I want to get better at giving critical feedback. I tend to avoid giving this feedback to my peers because it makes me uncomfortable.
+* I want to get better at giving critical feedback. I tend to avoid giving this feedback to my peers because it makes me uncomfortable. This is the part of me that avoids interpersonal conflict.
 * I am very passionate about what I do. Sometimes to a fault. I need to get better about reining this in.
 
 ## Ask Me About
