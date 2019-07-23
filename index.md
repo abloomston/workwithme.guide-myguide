@@ -1,95 +1,90 @@
 ---
 layout: profile
 # Set both of these to your name
-title: First Last
-full_name: First Last
+title: Ian Lofgren
+full_name: Ian Lofgren
 # Set this to the Github URL for links to work correctly
-# github_url: https://github.com/abloomston/workwithme.guide-myguide/
+github_url: https://github.com/ianlofs/workwithme.guide-myguide/
 # To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
-# picture: ./profile.jpg
+picture: ./profile.jpg
 # To add your name to the front page list, uncomment below
 # categories: [profile]
 ---
-
-_Two important points about your Work With Me document:_
-
-1. It's your document—this is just a starting point to help you in beginning to write it. Feel free to add and
-remove sections. Feel free to start with an empty page and fill it out however you'd like.
-1. It's meant to be a change with you—update it as frequently (or infrequently) as you'd like.
-
-_You might want to [estimate the reading time](http://niram.org/read/) of your document and keep it to 5 minutes or less._
-
 ## Values
 
-What do you value most in the world, in people, and/or in yourself? You might find it helpful to
-spend a few minutes [googling "list of values"](https://www.google.com/search?q=list+of+values) and finding the values that most resonate with you.
+* I value curiosity and self-reliance. I love digging into new problem areas and figuring things out on my own.
+I value passion and cooperation. Pairing with a colleague on a problem they are as interested in solving as I am is awesome.
+* I aspire to be consistent. I am huge fan of code formatters and linters for instance.
+* I often fill the role of facilitator. I strive to make sure the people around me feel heard and understood.
 
 ## Personality
 
-How do you act in the world? This can be a combination of descriptive and aspirational traits.
+* I tend to avoid interpersonal conflict but often pursue the conflict that comes out of discussing technical or process problems. I relish a good back and forth on a technical or process related issue. It is an interesting dichotomy that I am still trying to figure out.
+* I see myself as an optimist. It takes a lot to make me sad or angry or annoyed.
+* I aspire to be playful. This is an important part of interactions with my colleagues. I like to to joke and have fun in meetings, this sometimes can lead to me getting off-topic.
+* I am very confident. I tend to speak with authority even when I am not a subject matter expert on the topic of conversation. I am working on this.
+
+* My Meyers-Biggs type is INFP-A.
 
 ## Receiving Feedback & Recognition
 
-How do you best receive feedback, be it positive or negative?
+* I have taken the test and my love language is quality-time. This rings true to me. Having conversations where the other person is listening and engaged is very important to me.
 
-What about when one of us wants to call you out in some way for something awesome you did, a
-great piece of advice you gave, an insight you had, or your amazing Cat Thursday shirt—how do
-you feel most comfortable receiving that recognition?
+* I welcome critical or negative feedback but I ask that it is given in a private 1 on 1.
+
+* I find it difficult to give critical or negative feedback to others. I am working on this. This is the part of me that avoids interpersonal conflict.
 
 ## Work Patterns
+I live and work remotely in Denver, CO where the timezone is UTC-7 (UTC-6 during daylight savings). I'll talk here using UTC-8 (UTC-7 during daylight savings) as this is the timezone at the headquarters office in SF.
 
-What hours do you usually work?
+#### What hours do you usually work?
 
-When do you prefer to work alone, versus in groups? How do your energy levels fluctuate through-
-out the day?
+* I typically get up at around 5am and go to the gym in mornings.
+* I start working around 7am and stop working between 4:30pm and 5pm.
+* I really value work life balance and make it a point to not work on the weekends unless explicitly asked to.
+
+#### When do you prefer to work alone, versus in groups?
+* I prefer pair programming or 1 on 1s after lunch.
+* I like to work things out on my own before reaching out for help.
+* How do your energy levels fluctuate throughout the day?
+* In general I find that I have a lot of energy throughout the the day.
+* I feel most productive in the morning right when I sit down to work.
+* After lunch I generally get a little groggy for an hour or so.
 
 ## Communication Preferences
-
-What should people expect from you when they reach out to you on Yammer, Email, or Slack?
-How should people best get your attention for urgent matters, during and out of your working
-
-
-hours? What's your relationship to work communication when not at work? What are your signs
-that you'd prefer to not be interrupted when at work?
+* I prefer Slack for getting my attention. I have a personal target of responding to slack messages within 5 minutes during my working hours (7am-5pm).
+* If we need to talk at length about something I prefer face to face video calls using Meet or Zoom.
+* I only check my email once a day in the mornings.
+* Outside of my working hours I do not have a target for responding to work related communication. I do typically check Slack once during the evenings on weekdays and once or twice a day on weekends.
+* When I am in the office and I have my headphones on I would prefer that you ping me on Slack before tapping on my shoulder.
 
 ## How To Know I’ve Gone To The Dark Side
 
-### Warning Signs
+#### Warning Signs
+If I am dismissive or short in a conversation it is a sign that I might in a bad place.
 
-When you don't feel safe in a conversation, how does this manifest itself in your actions or affects?
-What about when you're just not having an "on" or "good" day?
-
-### How to help
-
-This might also be a good place
-to present recommendations for how we can be supportive towards you when you've gone to the
-Dark Side.
+#### How to help
+Generally I  need space to calm down. I do appreciate when people reach out to see how I am doing and listen when I tell them how I am doing.
 
 ## Me Being Me
-
-Any habits that of yours that can be easily misinterpreted? Here's a good place to point them out.
+I often ask clarifying questions. I am genuinely curious about the topics of conversation that I engage in. This can seem like I am confronting or interrogating you though. This is not my intention and I working on how to more thoughtfully exercise my curiosity.
 
 ## Pet Peeves
-
-_I don't expect this list to change your actions—but it might help you better understand and empathize with my
-reactions._
-
-Any pet peeves we should know about? Knowing them may not, and shouldn't be expected to,
-change others actions—but it might help us better understand and empathize with your reactions.
-In fact, you might want the disclaimer above to stay in your document.
+_I don't expect this list to change your actions—but it might help you better understand and empathize with my reactions._
+* Negativity. I don't see a lot of value in being negative. Its better to approach a hard situation from the perspective of what you can to do make it better rather that pointing out its flaws.
+* Not using good microphones in meetings. As a remote employee this is super important to me. I need to be able to hear you to be able to have a conversation with you.
 
 ## Career Goals & Future Interests
+* Short term: Continue to support and implement new features for the business intelligence platform at Pantheon. I've put a lot of time and energy into this and want it to reach its potential.
+* Long term: Move into a role where I can have a higher level decision making capacity around the direction of technology in a business while supporting those around me. This means a management track in the near term and eventually a Director or VP role in the long term.
 
-What long term career goals do you have for yourself? What interests do you hope or plan for your
-future self to obsess over.
-
-## Areas for Development
-
-Anything you'd like us to know about yourself that makes you (gasp!) not perfect? If they are as-
-pects you'd like to change or are working on, this might be a good place to point out constructive
-and positive ways we can help you be aware of and take corrective action in the moment.
+Areas for Development
+* I tend to get off topic in meetings. This comes from my desire to bring playfulness to work. This can get frustrating for those around me though. If I've overstepped and steered the conversation too far off track please tell me. I won't offend.
+* I want to get better at giving critical feedback. I tend to avoid giving this feedback to my peers because it makes me uncomfortable.
+* I am very passionate about what I do. Sometimes to a fault. I need to get better about reining this in.
 
 ## Ask Me About
-
-Let's get to know one another! Here's a great place to list things you've done / activities you love
-/ conversations you're (almost) always excited to have!
+* Ski-mountaineering. I love to climb mountains and ski down them. It's one of the reasons I moved to Colorado.
+* Brewing beer. I do this once every ~3 months or so and really enjoy the process and the finished product.
+* I'm half Swedish and will wax poetic about my time in Sweden.
+* My Dog Ollie. He's very adorable.
