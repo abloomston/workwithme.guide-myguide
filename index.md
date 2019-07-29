@@ -17,6 +17,7 @@ categories: [profile]
   - Challenges yield **Learning** experiences which help me **Grow**. 
   - With that said, I do need time and space for a work-life **Balance**.  I take time for myself daily to unwind and prepare myself for the next challenge to come.
   - I value **humility** and **candor** from others.
+  - Lastly, what really can be exciting for me is seeing an _elegance_ in an engineered solution. 
 
 ## Personality
 
@@ -41,7 +42,7 @@ categories: [profile]
 **How do you best receive feedback, be it positive or negative?**
 
   - Positive feedback: private slack channel feedback is awesome!  Should your heart want to call it out at orientation meetings, go for it.
-  - Negative feedback: 1-1s are best and private slack channel. Provide an example of my actions or character.  That can help me learn.
+  - Negative feedback: 1-1s are best and private slack channel. Provide an example of my actions or character.  That can help me learn.  
 
 ## Work Patterns
 
@@ -49,8 +50,8 @@ categories: [profile]
 
   - I usually go to the gym before work and I am usually in the office by 10:30am PST.
   	- I am flexible to come into the office (or zoom in) earlier to meet with you 
-      - Please ask ahead of time!  If it's late the day before you want an early morning meeting, slack or text me about it just to be sure I'm aware of it.
-  - Meetings are ideal 11am-3pm PST, the sooner the better. 
+      - Please ask ahead of time!  If scheduling an early morning meeting the afternoon before, slack or text me about it just to be sure I'm aware of it.
+  - Meetings are ideal 11am-3pm PST, the sooner the better.
 
 **When do you prefer to work alone, versus in groups?**
 
@@ -100,8 +101,9 @@ categories: [profile]
 
 ## Ask Me About
 
-  - Linear programming, optimization, and math.
+  - Linear programming, optimization, and math
   - Cryptography (the symmetric kind)
   - GPS
   - Software bugs and bug hunting: CVEs, fuzzing, symbolic execution, and reverse engineering tools
   - Ice hockey, power lifting, and hiking
+  - [Crit](./CritatCDG.pdf) and [Art Based Research](./artbasedresearch.html)
