@@ -1,0 +1,4 @@
+[submodule "mattalexander-pantheon"]
+	path = mattalexander-pantheon
+	url = https://github.com/mattalexander-pantheon/workwithme.guide-myguide.git
+	branch = master
