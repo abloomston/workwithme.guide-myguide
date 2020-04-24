@@ -28,19 +28,17 @@ picture: ./profile.jpg
 
 ## Receiving Feedback & Recognition
 
-* I have taken the test and my love language is **quality-time**. This rings true to me. Having conversations where the other person is listening and engaged is very important to me.
-
 * I welcome critical or negative feedback but I ask that it is given in a private 1 on 1.
 
 * I find it difficult to give critical or negative feedback to others. This is the part of me that avoids interpersonal conflict. I am working on this.
 
 ## Work Patterns
-I live and work remotely in Denver, CO where the timezone is UTC-7 (UTC-6 during daylight savings). I'll talk here using the timezone of San Francisco, UTC-8 (UTC-7 during daylight savings), as this where most of my colleagues live and work.
+I live and work remotely in Denver, CO where the timezone is UTC-7 (UTC-6 during daylight savings).
 
 #### What hours do you usually work?
 
-* I typically get up at around 5am and go to the gym in mornings.
-* I start working around 7am and stop working between 4:30pm and 5pm.
+* I typically get up at around 6:30am.
+* I start working around 8am and stop working between 5:00pm and 5:30pm.
 * I really value work life balance and make it a point to not work on the weekends unless explicitly asked to.
 
 #### When do you prefer to work alone, versus in groups?
