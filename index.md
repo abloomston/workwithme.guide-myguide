@@ -1,95 +1,85 @@
 ---
 layout: profile
 # Set both of these to your name
-title: First Last
-full_name: First Last
+title: Bhavdeep Singh
+full_name: Bhavdeep Singh
 # Set this to the Github URL for links to work correctly
-# github_url: https://github.com/abloomston/workwithme.guide-myguide/
+github_url: https://github.com/bhavdeepsinghb/workwithme.guide-myguide/
 # To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
-# picture: ./profile.jpg
+picture: ./profile.jpg
 # To add your name to the front page list, uncomment below
 # categories: [profile]
 ---
 
-_Two important points about your Work With Me document:_
-
-1. It's your document—this is just a starting point to help you in beginning to write it. Feel free to add and
-remove sections. Feel free to start with an empty page and fill it out however you'd like.
-1. It's meant to be a change with you—update it as frequently (or infrequently) as you'd like.
-
-_You might want to [estimate the reading time](http://niram.org/read/) of your document and keep it to 5 minutes or less._
-
 ## Values
 
-What do you value most in the world, in people, and/or in yourself? You might find it helpful to
-spend a few minutes [googling "list of values"](https://www.google.com/search?q=list+of+values) and finding the values that most resonate with you.
+* I value **consistency**. For me, success is defined by the repeated ability to do something well.
+* I value **work-life** balance
+* **Optimism** and **persevence** are the driving forces in my life. Tough times are an eventuality and out of our hands, but dealing with them is what makes all the difference.
+* **Exploration** and **learning** close out my top values as a constant state of mind.
 
 ## Personality
 
-How do you act in the world? This can be a combination of descriptive and aspirational traits.
+* I am **curious**. I love learning new things and am very easily interested in new things. I love getting into the nitty gritty and asking interesting questions! If you wish, always tell me more!
 
 ## Receiving Feedback & Recognition
 
 How do you best receive feedback, be it positive or negative?
 
-What about when one of us wants to call you out in some way for something awesome you did, a
-great piece of advice you gave, an insight you had, or your amazing Cat Thursday shirt—how do
-you feel most comfortable receiving that recognition?
+* I prefer to recieve feedback in private 1-1's (whether positive or negative) and love to ask more questions on how I can improve more and do better.
 
 ## Work Patterns
 
 What hours do you usually work?
 
-When do you prefer to work alone, versus in groups? How do your energy levels fluctuate through-
-out the day?
+* I'm on Pacific Time and am usually start work around 9 a.m. PT and try to wrap up my work day around 5-6 pm to work out
+* I might work in the evening as well, and might ping you but realize the imporatnce of having a work-life balance (as mentioned above) and respect your time. So no pressure to respond
+
+When do you prefer to work alone, versus in groups?
+
+* I love to plan things out **in a team** but prefer to learn by myself, where I can move at my own pace.
+* I'm trying to get better at pairing up with others and making good use of pair-programming.
+
+How do your energy levels fluctuate throughout the day?
+
+* Unless sick, or otherwise stated, I'm pretty energetic throughout the day! 
 
 ## Communication Preferences
 
 What should people expect from you when they reach out to you on Yammer, Email, or Slack?
-How should people best get your attention for urgent matters, during and out of your working
 
+* Between 9-5, unless in a meeting, I am usually able to respond to pings or emails within minutes. If not working, I'll be sure to get back to you within 12 hours of sending the message
 
-hours? What's your relationship to work communication when not at work? What are your signs
-that you'd prefer to not be interrupted when at work?
+* My preferred method for communication is **Slack** and I respond as quickly as possible to all pings
+
 
 ## How To Know I’ve Gone To The Dark Side
 
 ### Warning Signs
 
-When you don't feel safe in a conversation, how does this manifest itself in your actions or affects?
-What about when you're just not having an "on" or "good" day?
+
+* I quiet down when I'm feeling out of it. Communicating my issues is something that I'm working on.
 
 ### How to help
 
-This might also be a good place
-to present recommendations for how we can be supportive towards you when you've gone to the
-Dark Side.
+* Just allowing me some time to step back and reflect usually helps. I'll get there, just need some time! 
 
 ## Me Being Me
 
-Any habits that of yours that can be easily misinterpreted? Here's a good place to point them out.
+* I constantly feel like I'm bothering people and make short work of apologizing for it. This changes as I settle down more and become more comdortable! (Won't take long based on how amazing and friendly Pantheors are)
 
 ## Pet Peeves
 
 _I don't expect this list to change your actions—but it might help you better understand and empathize with my
 reactions._
 
-Any pet peeves we should know about? Knowing them may not, and shouldn't be expected to,
-change others actions—but it might help us better understand and empathize with your reactions.
-In fact, you might want the disclaimer above to stay in your document.
-
-## Career Goals & Future Interests
-
-What long term career goals do you have for yourself? What interests do you hope or plan for your
-future self to obsess over.
+* Nothing special, be yourself! 
 
 ## Areas for Development
 
-Anything you'd like us to know about yourself that makes you (gasp!) not perfect? If they are as-
-pects you'd like to change or are working on, this might be a good place to point out constructive
-and positive ways we can help you be aware of and take corrective action in the moment.
+* Everything! Must keep getting better!
 
 ## Ask Me About
 
-Let's get to know one another! Here's a great place to list things you've done / activities you love
-/ conversations you're (almost) always excited to have!
+* Video games! I play a lot of games so if you're thinking of getting into something, want to play something together or just generally are interested in video games, let's chat! 
+* Books: messages are always open for new book reccomendations! 
