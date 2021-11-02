@@ -14,9 +14,9 @@ full_name: Daniel Nitsch
 ## Values
 
 - Transparency: Keep it open and keep it real.  
-- Empathy: I try to understand who I am talking to, and I'm willing to talk/listen/learn about any situation - good or bad
-- Knowledge: My desire to learn is strong - I like to know all-the-things
-- Teaching/Mentorship:  Helping others succeed can be just as rewarding for me as solving things myself
+- Empathy: I try to understand who I am talking to. I'm willing to talk/listen/learn about any situation.
+- Knowledge: My desire to learn is strong - I like to know all-the-things.
+- Teaching/Mentorship: Helping others succeed can be just as rewarding for me as solving things myself.
 
 ## Personality
 
@@ -39,11 +39,10 @@ full_name: Daniel Nitsch
 ## Communication Preferences
 
 - Slack is the best.
-- I have a bad memory, so never feed bad about "pinging" me with a private message reminder if you are waiting on me for something
-
+- I have a bad memory, so never feed bad about "pinging" me with a private message reminder if you are waiting on me for something.
 
 ## Me Being Me
 
-- I tend to ask a lot of questions. I'd rather ask a question and be the person who looks "dumb" the end up the [Too Afriad to Ask](https://imgflip.com/memetemplate/69723592/Chris-Pratt---Too-Afraid-to-Ask).
-- Sometimes I ask overly broad questions - I do this on purpose to see where the conversation goes and to make sure I'm learning about the ["unknown unknowns"](https://theunknownunknown.org/what-are-unknown-unknowns/)
+- I tend to ask a lot of questions. I'd rather ask a question and be the person who looks "dumb" such as the [Too Afriad to Ask](https://imgflip.com/memetemplate/69723592/Chris-Pratt---Too-Afraid-to-Ask) meme.
+- Sometimes I ask overly broad questions - I do this on purpose to see where the conversation goes and to make sure I'm learning about the ["unknown unknowns"](https://theunknownunknown.org/what-are-unknown-unknowns/).
 - Sometimes I get [nerd sniped](https://xkcd.com/356/). It's not difficult to get me excited about a subject, so don't feel bad about telling me to stay on-topic.

@@ -1,0 +1,4 @@
+[submodule "workwithme.guide/dtnp"]
+	path = workwithme.guide/dtnp
+	url = https://github.com/dtnp/workwithme.guide-myguide.git
+	branch = master
