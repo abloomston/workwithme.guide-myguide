@@ -26,12 +26,11 @@ I value humility, kindness, compassion, accountability.
 I am friendly and open but am somewhat introverted by nature. 
 
 ## Receiving Feedback & Recognition
-I am ok with recognition in any format! I can handle constructive negative feedback, I prefer getting it in the mnost explicit and direct way rather than someone pulling their punches or being opaque.
+I am ok with recognition in any format! I can handle negative feedback as long as it's constructive. I prefer getting feedback in an explicit and direct way rather than someone pulling their punches or being opaque.
 
 ## Work Patterns
-I keep typical work hours. If I work outside of conventional 9-5 I will do it in the evening.
+I keep typical work hours. If I work outside of conventional 9-5 I will do it in the evening. I don't have preferences about when I work alone versus groups. 
 
-I don't have preferences about when I work alone versus groups. 
 ## Communication Preferences
 
 Slack during and outside of work hours. If it's an emergency and I don't respond to Slack, call or text.  If I am offline on Slack then I am not working. I will still typically read messages when notified.
