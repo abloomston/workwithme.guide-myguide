@@ -11,14 +11,6 @@ picture: ./profile.jpg
 categories: [profile]
 ---
 
-_Two important points about your Work With Me document:_
-
-1. It's your document—this is just a starting point to help you in beginning to write it. Feel free to add and
-remove sections. Feel free to start with an empty page and fill it out however you'd like.
-1. It's meant to be a change with you—update it as frequently (or infrequently) as you'd like.
-
-_You might want to [estimate the reading time](http://niram.org/read/) of your document and keep it to 5 minutes or less._
-
 ## Values
 I value humility, kindness, compassion, accountability.
 
